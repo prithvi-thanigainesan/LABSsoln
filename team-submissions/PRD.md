@@ -1,3 +1,20 @@
+Prithvinesan Thanigainesan (Prithvi)
+discord: laidfiaisd
+email: prithvi005040@gmail.com
+github: prithvi-thanigainesan
+### Final Optimization Result
+- **Sequence Length (N):** 40
+- **Energy (E):** 108.0
+- **Merit Factor (F):** 7.4074
+- **Optimal Sequence:** [-1. -1.  1.  1. -1. -1. -1.  1. -1. -1.  1. -1. -1. -1. -1.  1. -1.  1.
+ -1. -1.  1.  1.  1. -1.  1. -1.  1.  1.  1. -1.  1. -1. -1. -1. -1. -1.
+  1.  1.  1.  1.]
+        
+If I had more time, I could've probably gotten a better result with better energy and a merit factor. But I am happy with what I achieved in the given time. Thank you, guys, for the opportunity, and have a great day!
+
+tests.py is the verification script.
+video.mov is my presentation.
+
 # Product Requirements Document (PRD)
 
 **Project Name:** [LABSsoln]
